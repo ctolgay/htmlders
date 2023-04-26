@@ -1,0 +1,27 @@
+<!--Ana başlık-->
+<h1>Cem Tolga YILDIRIM</h1>
+<!--Alt başlık-->
+<h4>Hakkımda</h4>
+<!--Bilgiler-->
+<p>Merhaba ben Cem Tolga Yıldırım</p>
+<p>Antalya'da Yaşıyorum. Web geliştirme konusunda eğitimler alıyorum.</p>
+<!--Başlık-->
+<h3>İlgi Alanlarım</h3>
+<!--Alt başlık-->
+<h5>Filmler</h5>
+<!--Film Listesi-->
+<ul>
+    <li><a href="https://www.imdb.com/title/tt0120737/"><i>The Lord Of The Rings</i></a></li>
+    <li>Transcendence</li>
+    <li>Prestij</li>
+</ul>
+<h5>Kitaplar</h5>
+<!--Kitap Listesi-->
+<ol>
+    <li><a href="https://www.goodreads.com/book/show/5907.The_Hobbit"> <i>The Hobbit</i></a></li>
+    <li>İzafiyet Teorisi</li>
+    <li>Silmarillion</li>
+</ol>
+<h2>The Lord Of The Rings</h2>
+<img src="https://m.media-amazon.com/images/I/51J2QSgBh0L._AC_UF1000,1000_QL80_.jpg" alt="Gollum filmin ön planda olmayan ama ana karakterlerinden birisidir.">
+<p><i><b>Gollum :</b></i> <i>Filmin ön planda olmayan ama ana karakterlerinden birisidir.</i></p>
